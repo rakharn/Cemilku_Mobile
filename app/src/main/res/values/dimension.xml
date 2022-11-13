@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Activity Main-->
+    <dimen name="am.judulteks">24dp</dimen>
+    <dimen name="am.juduldesc">16dp</dimen>
+    <dimen name="am.ukuranText">20sp</dimen>
+
+    <!--Login-->
+    <dimen name="lg.iconBack">330dp</dimen>
+
+
+</resources>
